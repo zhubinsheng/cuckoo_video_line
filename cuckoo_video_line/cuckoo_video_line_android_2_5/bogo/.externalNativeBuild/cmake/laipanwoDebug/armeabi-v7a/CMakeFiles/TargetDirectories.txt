@@ -1,0 +1,3 @@
+/Users/weipeng/Desktop/work/code/bogo_video_line_android/bogo/.externalNativeBuild/cmake/laipanwoDebug/armeabi-v7a/CMakeFiles/rebuild_cache.dir
+/Users/weipeng/Desktop/work/code/bogo_video_line_android/bogo/.externalNativeBuild/cmake/laipanwoDebug/armeabi-v7a/CMakeFiles/edit_cache.dir
+/Users/weipeng/Desktop/work/code/bogo_video_line_android/bogo/.externalNativeBuild/cmake/laipanwoDebug/armeabi-v7a/CMakeFiles/apm-plugin-video-preprocessing.dir

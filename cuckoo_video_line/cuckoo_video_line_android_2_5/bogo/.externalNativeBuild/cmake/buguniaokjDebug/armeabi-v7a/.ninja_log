@@ -1,0 +1,23 @@
+# ninja log v5
+0	385	1556978759	CMakeFiles/apm-plugin-video-preprocessing.dir/src/main/cpp/video_preprocessing_plugin_jni.cpp.o	5359d7d6a5a4b7dd
+386	462	1556978759	../../../../build/intermediates/cmake/buguniaokj/debug/obj/armeabi-v7a/libapm-plugin-video-preprocessing.so	fbb5f99abef4b536
+0	286	1558282547	CMakeFiles/apm-plugin-video-preprocessing.dir/src/main/cpp/video_preprocessing_plugin_jni.cpp.o	5359d7d6a5a4b7dd
+286	352	1558282547	../../../../build/intermediates/cmake/buguniaokj/debug/obj/armeabi-v7a/libapm-plugin-video-preprocessing.so	fbb5f99abef4b536
+1	365	1558401841	CMakeFiles/apm-plugin-video-preprocessing.dir/src/main/cpp/video_preprocessing_plugin_jni.cpp.o	5359d7d6a5a4b7dd
+365	442	1558401841	../../../../build/intermediates/cmake/buguniaokj/debug/obj/armeabi-v7a/libapm-plugin-video-preprocessing.so	fbb5f99abef4b536
+0	367	1558690937	CMakeFiles/apm-plugin-video-preprocessing.dir/src/main/cpp/video_preprocessing_plugin_jni.cpp.o	5359d7d6a5a4b7dd
+367	446	1558690937	../../../../build/intermediates/cmake/buguniaokj/debug/obj/armeabi-v7a/libapm-plugin-video-preprocessing.so	fbb5f99abef4b536
+0	365	1559057077	CMakeFiles/apm-plugin-video-preprocessing.dir/src/main/cpp/video_preprocessing_plugin_jni.cpp.o	5359d7d6a5a4b7dd
+365	437	1559057077	../../../../build/intermediates/cmake/buguniaokj/debug/obj/armeabi-v7a/libapm-plugin-video-preprocessing.so	fbb5f99abef4b536
+1	485	1559726264	CMakeFiles/apm-plugin-video-preprocessing.dir/src/main/cpp/video_preprocessing_plugin_jni.cpp.o	5359d7d6a5a4b7dd
+485	558	1559726264	../../../../build/intermediates/cmake/buguniaokj/debug/obj/armeabi-v7a/libapm-plugin-video-preprocessing.so	fbb5f99abef4b536
+1	359	1559727758	CMakeFiles/apm-plugin-video-preprocessing.dir/src/main/cpp/video_preprocessing_plugin_jni.cpp.o	5359d7d6a5a4b7dd
+359	430	1559727759	../../../../build/intermediates/cmake/buguniaokj/debug/obj/armeabi-v7a/libapm-plugin-video-preprocessing.so	fbb5f99abef4b536
+0	392	1560234578	CMakeFiles/apm-plugin-video-preprocessing.dir/src/main/cpp/video_preprocessing_plugin_jni.cpp.o	5359d7d6a5a4b7dd
+392	464	1560234578	../../../../build/intermediates/cmake/buguniaokj/debug/obj/armeabi-v7a/libapm-plugin-video-preprocessing.so	fbb5f99abef4b536
+0	61	1560477907	build.ninja	a4ea3bfe59750121
+1	306	1560477907	CMakeFiles/apm-plugin-video-preprocessing.dir/src/main/cpp/video_preprocessing_plugin_jni.cpp.o	5359d7d6a5a4b7dd
+307	372	1560477907	../../../../build/intermediates/cmake/buguniaokj/debug/obj/armeabi-v7a/libapm-plugin-video-preprocessing.so	fbb5f99abef4b536
+5	63	1560525836	build.ninja	a4ea3bfe59750121
+0	303	1560525836	CMakeFiles/apm-plugin-video-preprocessing.dir/src/main/cpp/video_preprocessing_plugin_jni.cpp.o	5359d7d6a5a4b7dd
+303	377	1560525836	../../../../build/intermediates/cmake/buguniaokj/debug/obj/armeabi-v7a/libapm-plugin-video-preprocessing.so	fbb5f99abef4b536

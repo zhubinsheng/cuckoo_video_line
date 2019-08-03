@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/Users/weipeng/Desktop/work/code/bogo_video_line_android/bogo/.externalNativeBuild/cmake/laipanwoRelease/armeabi-v7a",
+  "command": "/Users/weipeng/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=armv7-none-linux-androideabi --gcc-toolchain=/Users/weipeng/Library/Android/sdk/ndk-bundle/toolchains/arm-linux-androideabi-4.9/prebuilt/darwin-x86_64 --sysroot=/Users/weipeng/Library/Android/sdk/ndk-bundle/sysroot  -Dapm_plugin_video_preprocessing_EXPORTS -isystem /Users/weipeng/Library/Android/sdk/ndk-bundle/sources/cxx-stl/gnu-libstdc++/4.9/include -isystem /Users/weipeng/Library/Android/sdk/ndk-bundle/sources/cxx-stl/gnu-libstdc++/4.9/libs/armeabi-v7a/include -isystem /Users/weipeng/Library/Android/sdk/ndk-bundle/sources/cxx-stl/gnu-libstdc++/4.9/include/backward  -isystem /Users/weipeng/Library/Android/sdk/ndk-bundle/sysroot/usr/include/arm-linux-androideabi -D__ANDROID_API__=17 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -march=armv7-a -mfloat-abi=softfp -mfpu=vfpv3-d16 -fno-integrated-as -mthumb -Wa,--noexecstack -Wformat -Werror=format-security   -Os -DNDEBUG  -fPIC   -std=gnu++11 -o CMakeFiles/apm-plugin-video-preprocessing.dir/src/main/cpp/video_preprocessing_plugin_jni.cpp.o -c /Users/weipeng/Desktop/work/code/bogo_video_line_android/bogo/src/main/cpp/video_preprocessing_plugin_jni.cpp",
+  "file": "/Users/weipeng/Desktop/work/code/bogo_video_line_android/bogo/src/main/cpp/video_preprocessing_plugin_jni.cpp"
+}
+]

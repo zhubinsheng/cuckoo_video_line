@@ -1,0 +1,41 @@
+
+{
+	"buildFiles" : 
+	[
+		"/media/binshengzhu/364f440f-58a2-4348-8ae0-9d77ea2d900c/agora/video_line/cuckoo_video_line/cuckoo_video_line_android_2_5/bogo/CMakeLists.txt"
+	],
+	"cleanCommands" : 
+	[
+		"/home/binshengzhu/Android/Sdk/cmake/3.6.4111459/bin/cmake --build /media/binshengzhu/364f440f-58a2-4348-8ae0-9d77ea2d900c/agora/video_line/cuckoo_video_line/cuckoo_video_line_android_2_5/bogo/.externalNativeBuild/cmake/eliaovideoDebug/armeabi-v7a --target clean"
+	],
+	"cppFileExtensions" : [ "cpp" ],
+	"libraries" : 
+	{
+		"apm-plugin-video-preprocessing-Debug-armeabi-v7a" : 
+		{
+			"abi" : "armeabi-v7a",
+			"artifactName" : "apm-plugin-video-preprocessing",
+			"buildCommand" : "/home/binshengzhu/Android/Sdk/cmake/3.6.4111459/bin/cmake --build /media/binshengzhu/364f440f-58a2-4348-8ae0-9d77ea2d900c/agora/video_line/cuckoo_video_line/cuckoo_video_line_android_2_5/bogo/.externalNativeBuild/cmake/eliaovideoDebug/armeabi-v7a --target apm-plugin-video-preprocessing",
+			"buildType" : "debug",
+			"files" : 
+			[
+				
+				{
+					"flags" : "  --target=armv7-none-linux-androideabi17 --gcc-toolchain=/home/binshengzhu/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/binshengzhu/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/linux-x86_64/sysroot  -Dapm_plugin_video_preprocessing_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -march=armv7-a -mthumb -Wa,--noexecstack -Wformat -Werror=format-security   -O0 -fno-limit-debug-info  -fPIC   -std=gnu++11  -c ",
+					"src" : "/media/binshengzhu/364f440f-58a2-4348-8ae0-9d77ea2d900c/agora/video_line/cuckoo_video_line/cuckoo_video_line_android_2_5/bogo/src/main/cpp/video_preprocessing_plugin_jni.cpp",
+					"workingDirectory" : "/media/binshengzhu/364f440f-58a2-4348-8ae0-9d77ea2d900c/agora/video_line/cuckoo_video_line/cuckoo_video_line_android_2_5/bogo/.externalNativeBuild/cmake/eliaovideoDebug/armeabi-v7a"
+				}
+			],
+			"output" : "/media/binshengzhu/364f440f-58a2-4348-8ae0-9d77ea2d900c/agora/video_line/cuckoo_video_line/cuckoo_video_line_android_2_5/bogo/build/intermediates/cmake/eliaovideo/debug/obj/armeabi-v7a/libapm-plugin-video-preprocessing.so",
+			"toolchain" : "5753374105462199961"
+		}
+	},
+	"toolchains" : 
+	{
+		"5753374105462199961" : 
+		{
+			"cCompilerExecutable" : "/home/binshengzhu/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/linux-x86_64/bin/clang",
+			"cppCompilerExecutable" : "/home/binshengzhu/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++"
+		}
+	}
+}

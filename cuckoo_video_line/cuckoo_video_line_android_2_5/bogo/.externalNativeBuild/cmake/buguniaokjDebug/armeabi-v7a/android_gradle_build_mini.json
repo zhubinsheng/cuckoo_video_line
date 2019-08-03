@@ -1,0 +1,17 @@
+{
+  "buildFiles": [
+    "/Users/weipeng/Library/Android/sdk/ndk-bundle/build/cmake/android.toolchain.cmake",
+    "/Users/weipeng/Desktop/work/code/bogo_video_line_android/bogo/CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "/Users/weipeng/Library/Android/sdk/cmake/3.10.2.4988404/bin/cmake --build /Users/weipeng/Desktop/work/code/bogo_video_line_android/bogo/.externalNativeBuild/cmake/buguniaokjDebug/armeabi-v7a --target clean"
+  ],
+  "libraries": {
+    "apm-plugin-video-preprocessing-Debug-armeabi-v7a": {
+      "artifactName": "apm-plugin-video-preprocessing",
+      "buildCommand": "/Users/weipeng/Library/Android/sdk/cmake/3.10.2.4988404/bin/cmake --build /Users/weipeng/Desktop/work/code/bogo_video_line_android/bogo/.externalNativeBuild/cmake/buguniaokjDebug/armeabi-v7a --target apm-plugin-video-preprocessing",
+      "abi": "armeabi-v7a",
+      "output": "/Users/weipeng/Desktop/work/code/bogo_video_line_android/bogo/build/intermediates/cmake/buguniaokj/debug/obj/armeabi-v7a/libapm-plugin-video-preprocessing.so"
+    }
+  }
+}
